@@ -1,10 +1,10 @@
 ---
 authors:
-- admin
-- Payton Jones
-- Melissa Dreier
-- Haley Elliott
-- Carlos Grilo
+- Wang, S.B.
+- Jones, P.J.
+- Dreier, M.
+- Elliott, H.
+- Grilo, C.M.
 date: "2018-09-01T00:00:00Z"
 doi: "10.1017/S0033291718002702"
 featured: false

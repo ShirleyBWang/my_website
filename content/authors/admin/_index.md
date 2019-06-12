@@ -4,6 +4,9 @@ authors:
 bio: My research interests include the prediction and prevention of eating disorders, self-injury, and suicide.
 education:
   courses:
+  - course: Ph.D. in Clinical Science
+    institution: Harvard University
+    year: expected 2023
   - course: A.M. in Clinical Science
     institution: Harvard University
     year: 2019

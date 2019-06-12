@@ -1,23 +1,21 @@
 ---
 authors:
-- admin
-- Payton Jones
-- Melissa Dreier
-- Haley Elliott
-- Carlos Grilo
-date: "2018-09-01T00:00:00Z"
-doi: "10.1017/S0033291718002702"
+- Wang, S.B.
+- Lydecker, J.A.
+- Grilo, C.M.
+date: "2017-11-01T00:00:00Z"
+doi: "10.1002/erv.2499"
 featured: false
 projects: []
-publication: '*Psychological Medicine*'
+publication: '*European Eating Disorders Review*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2018-09-01T00:00:00Z"
-title: 'Core psychopathology of treatment-seeking patients with binge-eating disorder: a network analysis investigation'
+publishDate: "2017-11-01T00:00:00Z"
+title: 'Rumination in Patients with Binge-Eating Disorder and Obesity: Associations with Eating-Disorder Psychopathology and Weight- bias Internalization'
 url_code: ""
 url_dataset: ""
-url_pdf: papers/wang_psychmed_2018.pdf
+url_pdf: papers/wang_eedr_2017.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
