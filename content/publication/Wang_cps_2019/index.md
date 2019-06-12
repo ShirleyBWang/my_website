@@ -7,7 +7,7 @@ authors:
 - Eisenberg, M.E.
 - Neumark-Sztainer, D
 date: "2019-07-01T00:00:00Z"
-doi: 
+# doi:
 featured: false
 projects: []
 publication: '*Clinical Psychological Science*'
