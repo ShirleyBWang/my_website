@@ -1,23 +1,21 @@
 ---
 authors:
-- admin
-- Payton Jones
-- Melissa Dreier
-- Haley Elliott
-- Carlos Grilo
-date: "2018-09-01T00:00:00Z"
-doi: "10.1017/S0033291718002702"
+- Fresnics, A.
+- Wang, S.B.
+- Borders, A.
+date: "2019-02-01T00:00:00Z"
+doi: "10.1016/j.psychres.2019.02.019"
 featured: false
 projects: []
-publication: '*Psychological Medicine*'
+publication: '*Psychiatry Research, 274,* 91-97'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2018-09-01T00:00:00Z"
-title: 'Core psychopathology of treatment-seeking patients with binge-eating disorder: a network analysis investigation'
+publishDate: "2012-02-01T00:00:00Z"
+title: 'The unique associations between self-compassion and eating disorder psychopathology and the mediating role of rumination'
 url_code: ""
 url_dataset: ""
-url_pdf: papers/wang_psychmed_2018.pdf
+url_pdf: papers/Fresnics_psychres_2019.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""

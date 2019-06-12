@@ -1,23 +1,22 @@
 ---
 authors:
-- admin
-- Payton Jones
-- Melissa Dreier
-- Haley Elliott
-- Carlos Grilo
-date: "2018-09-01T00:00:00Z"
-doi: "10.1017/S0033291718002702"
+- Herres, J.
+- Wang, S.B.
+- Bobchin, K.
+- Draper, J.
+date: "2018-07-01T00:00:00Z"
+doi: "10.1177/0886260518785376"
 featured: false
 projects: []
-publication: '*Psychological Medicine*'
+publication: '*Journal of Interpersonal Violence*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2018-09-01T00:00:00Z"
-title: 'Core psychopathology of treatment-seeking patients with binge-eating disorder: a network analysis investigation'
+publishDate: "2018-07-01T00:00:00Z"
+title: 'A Socioecological Model of Risk Associated With Campus Sexual Assault in a Representative Sample of Liberal Arts College Students'
 url_code: ""
 url_dataset: ""
-url_pdf: papers/wang_psychmed_2018.pdf
+url_pdf: papers/Herres_jiv_2017.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""

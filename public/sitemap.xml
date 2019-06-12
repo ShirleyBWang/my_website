@@ -34,14 +34,200 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>/publication/wang_cps_2019/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/chen-c./</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/eisenberg-m.e./</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/fox-k.r./</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/franklin-j.c./</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/haynos-a.f./</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/huang-x.i./</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/linthicum-k./</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/fox_jccp_2019/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/neumark-sztainer-d/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ribeiro-j.d./</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/wall-m.m./</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/wang-s.b./</loc>
+    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/buqo-t./</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/papa-a./</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/skutch-j.m./</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/skutch_jpba_2019/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/boccagno-c./</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/fox_ijed_2019/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/diamond-g./</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/fox.-k.r./</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/herres-j./</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/hooley-j.m/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/russon_cphd_2019/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kleiman-e.m./</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mensinger-j./</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/russon-j./</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/shearer-a./</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/vaughan-k./</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -66,9 +252,43 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>/authors/borders-a./</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/diamond-g/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/herres_crisis_2018/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/fresnics-a./</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kim-b./</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kodish-t./</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/fresnics_psychres_2019/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -96,29 +316,12 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/weigel_ijed_2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/thomas-j.j./</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/wang-s.b./</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -136,93 +339,100 @@
   </url>
   
   <url>
+    <loc>/authors/becker-k.r./</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/coniglio-k.a./</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/franko-d.l./</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/becker_ijed_2019/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/keshishian-a.c./</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/liebman-r.e./</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/anderson-l./</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/gorrell-s./</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/schaumberg_appetite_2018/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/loth-k./</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/neumark-sztainer-d./</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/haynos_ijed_2018/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/reilly-e./</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/sala-m./</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/schaumberg-k./</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/authors/carlos-grilo/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/publication/becker_ijed_2019/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/fox_behavther_2018/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/fox_ijed_2019/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/fox_jccp_2019/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/fresnics_psychres_2019/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/haynos_edjtp_2018/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/haynos_ijed_2018/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/herres_crisis_2018/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/herres_jiv_2017/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/hooley_bmcpsych_2018/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/ruscio_psychassessment_2017/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/russon_cphd_2019/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/schaumberg_appetite_2018/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/skutch_jpba_2019/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/wang_comprpsych_2018/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/wang_cps_2019/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/wang_eatbehav_2018/</loc>
     <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -274,6 +484,39 @@
   </url>
   
   <url>
+    <loc>/authors/hooley-j.m./</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kwashie-a./</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/hooley_bmcpsych_2018/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/osullivan-i.m./</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/fox_behavther_2018/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/herres_jiv_2017/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/bean-p./</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -286,13 +529,13 @@
   </url>
   
   <url>
-    <loc>/authors/coniglio-k.a./</loc>
+    <loc>/authors/bobchin-k./</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/franko-d.l./</loc>
+    <loc>/authors/draper-j./</loc>
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -338,6 +581,28 @@
   </url>
   
   <url>
+    <loc>/authors/fruzzetti-a.e./</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/pisetsky-e.m./</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/wang_comprpsych_2018/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wang_eatbehav_2018/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/lydecker-j.a./</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -349,13 +614,25 @@
   </url>
   
   <url>
-    <loc>/authors/diamond-g./</loc>
+    <loc>/authors/carney-l.m./</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/herres-j./</loc>
+    <loc>/authors/dever-l./</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/pliskin-m./</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/ruscio-j./</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -366,9 +643,8 @@
   </url>
   
   <url>
-    <loc>/authors/borders-a./</loc>
-    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/publication/ruscio_psychassessment_2017/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -1,23 +1,25 @@
 ---
 authors:
-- admin
-- Payton Jones
-- Melissa Dreier
-- Haley Elliott
-- Carlos Grilo
-date: "2018-09-01T00:00:00Z"
-doi: "10.1017/S0033291718002702"
+- Russon, J.
+- Mensinger, J.
+- Herres, J.
+- Shearer, A.
+- Vaughan, K.
+- Wang, S.B.
+- Diamond, G.
+date: "2019-03-01T00:00:00Z"
+doi: "10.1007/s10578-019-00875-8"
 featured: false
 projects: []
-publication: '*Psychological Medicine*'
+publication: '*Child Psychiatry & Human Development*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2018-09-01T00:00:00Z"
-title: 'Core psychopathology of treatment-seeking patients with binge-eating disorder: a network analysis investigation'
+publishDate: "2019-03-01T00:00:00Z"
+title: 'Identifying Risk Factors for Disordered Eating among Female Youth in Primary Care'
 url_code: ""
 url_dataset: ""
-url_pdf: papers/wang_psychmed_2018.pdf
+url_pdf: papers/Russon_cphd_2019.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""

@@ -43,5 +43,4 @@ user_groups:
 - Visitors
 ---
 
-I am a third-year graduate student in the clinical science program at Harvard University, working with [Matt Nock](https://nocklab.fas.harvard.edu/people/matthew-k-nock-phd). My research examines why people engage in behaviors that are harmful to themselves, including eating disorder behaviors, nonsuicidal self-injury, and suicide. I use a wide range of methodologies to study these problems, including laboratory-based behavioral experiments, real-time monitoring, and large-scale longitudinal studies. 
-
+Shirley is a third-year graduate student in the clinical science program at Harvard University, working with [Matt Nock](https://nocklab.fas.harvard.edu/people/matthew-k-nock-phd). Her research examines why people engage in behaviors that are harmful to themselves, including eating disorder behaviors, nonsuicidal self-injury, and suicide. She use a wide range of methodologies to study these problems, including laboratory-based behavioral experiments, real-time monitoring, and large-scale longitudinal studies. 

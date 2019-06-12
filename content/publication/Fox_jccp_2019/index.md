@@ -1,23 +1,24 @@
 ---
 authors:
-- admin
-- Payton Jones
-- Melissa Dreier
-- Haley Elliott
-- Carlos Grilo
-date: "2018-09-01T00:00:00Z"
-doi: "10.1017/S0033291718002702"
+- Fox, K.R.
+- Huang, X.I., 
+- Linthicum, K.
+- Wang, S.B.
+- Franklin, J.C.
+- Ribeiro, J.D.
+date: "2019-07-01T00:00:00Z"
+doi: ""
 featured: false
 projects: []
-publication: '*Psychological Medicine*'
+publication: '*Journal of Consulting and Clinical Psychology*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2018-09-01T00:00:00Z"
-title: 'Core psychopathology of treatment-seeking patients with binge-eating disorder: a network analysis investigation'
+publishDate: "2019-07-01T00:00:00Z"
+title: 'Model complexity improves the prediction of nonsuicidal self-injury'
 url_code: ""
 url_dataset: ""
-url_pdf: papers/wang_psychmed_2018.pdf
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""

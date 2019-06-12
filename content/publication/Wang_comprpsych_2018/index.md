@@ -1,23 +1,23 @@
 ---
 authors:
-- admin
-- Payton Jones
-- Melissa Dreier
-- Haley Elliott
-- Carlos Grilo
-date: "2018-09-01T00:00:00Z"
-doi: "10.1017/S0033291718002702"
+- Wang, S.B.
+- Pisetsky, E.M.
+- Skutch, J.M.
+- Fruzzetti, A.E.
+- Haynos, A.F. 
+date: "2018-04-01T00:00:00Z"
+doi: "10.1016/j.comppsych.2018.02.005"
 featured: false
 projects: []
-publication: '*Psychological Medicine*'
+publication: '*Comprehensive Psychiatry, (82),* 128-132'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2018-09-01T00:00:00Z"
-title: 'Core psychopathology of treatment-seeking patients with binge-eating disorder: a network analysis investigation'
+publishDate: "2018-04-01T00:00:00Z"
+title: 'Restrictive eating and nonsuicidal self-injury in a nonclinical sample: Co-occurrence and associations with emotion dysregulation and interpersonal problems'
 url_code: ""
 url_dataset: ""
-url_pdf: papers/wang_psychmed_2018.pdf
+url_pdf: papers/Wang_comprpsych_2018.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""

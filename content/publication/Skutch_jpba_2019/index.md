@@ -1,23 +1,23 @@
 ---
 authors:
-- admin
-- Payton Jones
-- Melissa Dreier
-- Haley Elliott
-- Carlos Grilo
-date: "2018-09-01T00:00:00Z"
-doi: "10.1017/S0033291718002702"
+- Skutch, J.M.
+- Wang, S.B.
+- Buqo, T.
+- Haynos, A.F.
+- Papa, A.
+date: "2019-04-01T00:00:00Z"
+doi: "10.1007/s10862-019-09736-z"
 featured: false
 projects: []
-publication: '*Psychological Medicine*'
+publication: '*Journal of Psychopathology and Behavioral Assessment*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2018-09-01T00:00:00Z"
-title: 'Core psychopathology of treatment-seeking patients with binge-eating disorder: a network analysis investigation'
+publishDate: "2019-04-01T00:00:00Z"
+title: 'Which Brief Is Best? Clarifying the Use of Three Brief Versions of the Difficulties in Emotion Regulation Scale'
 url_code: ""
 url_dataset: ""
-url_pdf: papers/wang_psychmed_2018.pdf
+url_pdf: papers/Skutch_jpba_2019.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
