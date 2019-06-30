@@ -7,7 +7,7 @@ authors:
 - Franklin, J.C.
 - Ribeiro, J.D.
 date: "2019-07-01T00:00:00Z"
-doi: ""
+doi: "10.1037/ccp0000421"
 featured: false
 projects: []
 publication: '*Journal of Consulting and Clinical Psychology*'
