@@ -1,24 +1,23 @@
 ---
 authors:
-- Fox, K.R.
-- Huang, X.I., 
-- Linthicum, K.
+- Skutch, J.M.
 - Wang, S.B.
-- Franklin, J.C.
-- Ribeiro, J.D.
-date: "2019-07-01T00:00:00Z"
-doi: "10.1037/ccp0000421"
+- Buqo, T.
+- Haynos, A.F.
+- Papa, A.
+date: "2019-02-01T00:00:00Z"
+doi: "10.1007/s10862-019-09736-z"
 featured: false
 projects: []
-publication: '*Journal of Consulting and Clinical Psychology*'
+publication: '*Journal of Psychopathology and Behavioral Assessment*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019-07-01T00:00:00Z"
-title: 'Model complexity improves the prediction of nonsuicidal self-injury'
+publishDate: "2019-02-01T00:00:00Z"
+title: 'Which Brief Is Best? Clarifying the Use of Three Brief Versions of the Difficulties in Emotion Regulation Scale'
 url_code: ""
 url_dataset: ""
-url_pdf: papers/Fox_jccp_2019.pdf
+url_pdf: papers/Skutch_jpba_2019.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
