@@ -15,7 +15,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-06-01T00:00:00Z"
-title: 'Which Brief Is Best? Clarifying the Use of Three Brief Versions of the Difficulties in Emotion Regulation Scale'
+title: 'Model Complexity Improves the Prediction of Nonsuicidal Self-Injury'
 url_code: ""
 url_dataset: ""
 url_pdf: papers/Fox_jccp_2019.pdf
