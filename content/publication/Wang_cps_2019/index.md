@@ -6,7 +6,7 @@ authors:
 - Chen, C.
 - Eisenberg, M.E.
 - Neumark-Sztainer, D
-date: "2019-07-01T00:00:00Z"
+date: "2019-06-01T00:00:00Z"
 # doi:
 featured: false
 projects: []
@@ -14,7 +14,7 @@ publication: '*Clinical Psychological Science*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019-07-01T00:00:00Z"
+publishDate: "2019-06-01T00:00:00Z"
 title: '15-year prevalence, trajectories, and predictors of body dissatisfaction from adolescence to middle adulthood'
 url_code: ""
 url_dataset: ""
