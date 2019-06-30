@@ -18,7 +18,7 @@ publishDate: "2019-07-01T00:00:00Z"
 title: 'Model complexity improves the prediction of nonsuicidal self-injury'
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: papers/Fox_jccp_2019.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
