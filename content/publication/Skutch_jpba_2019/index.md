@@ -5,7 +5,7 @@ authors:
 - Buqo, T.
 - Haynos, A.F.
 - Papa, A.
-date: "2019-04-01T00:00:00Z"
+date: "2019-02-01T00:00:00Z"
 doi: "10.1007/s10862-019-09736-z"
 featured: false
 projects: []
@@ -13,7 +13,7 @@ publication: '*Journal of Psychopathology and Behavioral Assessment*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2019-04-01T00:00:00Z"
+publishDate: "2019-02-01T00:00:00Z"
 title: 'Which Brief Is Best? Clarifying the Use of Three Brief Versions of the Difficulties in Emotion Regulation Scale'
 url_code: ""
 url_dataset: ""
