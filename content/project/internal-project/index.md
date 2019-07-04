@@ -8,9 +8,9 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
-slides: example
-summary: An example of using the in-built project page.
+  url: https://twitter.com/ShirleyBWang
+slides: 
+summary: 
 tags:
 - Projects
 - Machine Learning
