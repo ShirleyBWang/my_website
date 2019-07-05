@@ -12,7 +12,7 @@ date: "2018-12-01T00:00:00Z"
 doi: "10.1002/eat.22988"
 featured: false
 projects: 
-- Conceptualization & Classification
+- Network Modeling & Nosology
 publication: '*International Journal of Eating Disorders, 52* (3), 230-238'
 publication_short: ""
 publication_types:

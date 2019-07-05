@@ -13,7 +13,7 @@ slides:
 summary: 
 tags:
 - Projects
-title: Conceptualization & Classification
+title: Network Modeling & Nosology
 url_code: ""
 url_pdf: ""
 url_slides: ""
