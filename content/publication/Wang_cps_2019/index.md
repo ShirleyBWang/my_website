@@ -9,7 +9,8 @@ authors:
 date: "2019-06-01T00:00:00Z"
 # doi:
 featured: false
-projects: []
+projects:
+- Longitudinal Trajectories
 publication: '*Clinical Psychological Science*'
 publication_short: ""
 publication_types:

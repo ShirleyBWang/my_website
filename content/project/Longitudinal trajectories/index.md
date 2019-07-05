@@ -2,7 +2,7 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Fox et al. (2019), JCCP
+  caption: Wang et al., (2019), Clinical Psychological Science
   focal_point: Smart
 links:
 - icon: twitter
@@ -13,14 +13,11 @@ slides:
 summary: 
 tags:
 - Projects
-- Machine Learning
-title: Machine Learning
+title: Longitudinal Trajectories
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-Meta-analyses indicate that efforts to predict self-harming behaviors have resulted in near-chance accuracy. Prediction of these behaviors may benefit from machine learning methods, which can better account for the complexity of self-harming behaviors. My work in this area uses machine learning to improve the longitudinal prediction of nonsuicidal self-injury (NSSI), suicide, and eating disorders across both short-term periods of high risk and long-term studies of illness course and outcome. 
-
-
+How do clinical behaviors and symptoms change over time, and how can we model these patterns? In collaboration with [Dianne Neumark-Sztainer](https://directory.sph.umn.edu/bio/sph-a-z/dianne-neumark-sztainer) and [Ann Haynos](https://www.med.umn.edu/bio/psychiatry/ann-haynos), my work in this area has examined longitudinal trajectories of eating disorder symptoms and body dissatisfaction using data from [Project EAT](http://www.sphresearch.umn.edu/epi/project-eat/) across 15 years from adolescence to adulthood. 

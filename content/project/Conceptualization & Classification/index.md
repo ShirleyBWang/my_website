@@ -2,7 +2,7 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Fox et al. (2019), JCCP
+  caption: Wang et al. (2018), Psychological Medicine
   focal_point: Smart
 links:
 - icon: twitter
@@ -13,14 +13,13 @@ slides:
 summary: 
 tags:
 - Projects
-- Machine Learning
-title: Machine Learning
+title: Conceptualization & Classification
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-Meta-analyses indicate that efforts to predict self-harming behaviors have resulted in near-chance accuracy. Prediction of these behaviors may benefit from machine learning methods, which can better account for the complexity of self-harming behaviors. My work in this area uses machine learning to improve the longitudinal prediction of nonsuicidal self-injury (NSSI), suicide, and eating disorders across both short-term periods of high risk and long-term studies of illness course and outcome. 
+How are mental disorders and self-harming behaviors optimally classified and conceptualized? My interest in classification stems from my research with [John Ruscio](https://ruscio.pages.tcnj.edu/) in taxometric analysis. To faciliate statistical tests of whether disorders are categorical or dimensional in nature, we wrote an R package for taxometric analysis, [RTaxometrics](https://cran.r-project.org/web/packages/RTaxometrics/index.html) (available on CRAN).
 
-
+However, rather than viewing mental disorders as emerging from a latent cause, recent models have also described disorders as complex interactions between symptoms. My work in this area has used network models to examine how symptoms can influence, maintain, and interact with each other, as well as to identify the symptoms that are most central to a disorder. 

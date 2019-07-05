@@ -8,7 +8,8 @@ authors:
 date: "2018-04-01T00:00:00Z"
 doi: "10.1016/j.comppsych.2018.02.005"
 featured: false
-projects: []
+projects:
+- Comorbidity
 publication: '*Comprehensive Psychiatry, (82),* 128-132'
 publication_short: ""
 publication_types:
