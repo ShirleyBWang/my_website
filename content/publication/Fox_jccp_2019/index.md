@@ -9,8 +9,7 @@ authors:
 date: "2019-06-01T00:00:00Z"
 doi: "10.1007/s10862-019-09736-z"
 featured: false
-projects:
-- Machine learning
+projects: []
 publication: '*Journal of Clinical and Consulting Psychology*'
 publication_short: ""
 publication_types:

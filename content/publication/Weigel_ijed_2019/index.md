@@ -11,8 +11,7 @@ authors:
 date: "2019-01-01T00:00:00Z"
 doi: "10.1002/eat.23028"
 featured: false
-projects:
-- Comorbidity
+projects: []
 publication: '*International Journal of Eating Disorders*'
 publication_short: ""
 publication_types:

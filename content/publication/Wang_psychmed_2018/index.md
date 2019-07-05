@@ -8,8 +8,7 @@ authors:
 date: "2018-09-01T00:00:00Z"
 doi: "10.1017/S0033291718002702"
 featured: false
-projects: 
-- Network Modeling & Nosology
+projects: []
 publication: '*Psychological Medicine*'
 publication_short: ""
 publication_types:

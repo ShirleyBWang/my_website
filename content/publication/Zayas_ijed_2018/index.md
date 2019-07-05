@@ -15,8 +15,7 @@ authors:
 date: "2018-07-01T00:00:00Z"
 doi: "10.1002/eat.22941"
 featured: false
-projects: 
-- Conceptualization & Classification
+projects: []
 publication: '*International Journal of Eating Disorders, 51*(9)'
 publication_short: ""
 publication_types:
