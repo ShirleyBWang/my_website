@@ -8,7 +8,8 @@ authors:
 date: "2017-09-01T00:00:00Z"
 doi: "10.1037/pas0000522"
 featured: false
-projects: []
+projects:
+- Networks & Nosology
 publication: '*Psychological Assessment, 30* (6), 744-754'
 publication_short: ""
 publication_types:

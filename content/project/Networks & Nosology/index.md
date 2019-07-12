@@ -13,7 +13,7 @@ slides:
 summary: 
 tags:
 - Projects
-title: Network Modeling & Nosology
+title: Networks & Nosology
 url_code: ""
 url_pdf: ""
 url_slides: ""

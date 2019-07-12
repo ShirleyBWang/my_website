@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Shirley Wang</title>
+    <link>/tags/projects/</link>
+    <description>Recent content in Projects on Shirley Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comorbidity</title>
+      <link>/project/comorbidity/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/comorbidity/</guid>
+      <description>&lt;p&gt;Self-harming behaviors, including eating disorder behaviors, nonsuicidal self-injury, and suicide, frequently co-occur. My work in this area first examines whether similar functions and mechanisms underlie engagement in multiple self-harming behaviors, and how comorbidity impacts treatment outcomes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Longitudinal Trajectories</title>
+      <link>/project/longitudinal-trajectories/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/longitudinal-trajectories/</guid>
+      <description>&lt;p&gt;How do clinical behaviors and symptoms change over time, and how can we model these patterns? In collaboration with &lt;a href=&#34;https://directory.sph.umn.edu/bio/sph-a-z/dianne-neumark-sztainer&#34; target=&#34;_blank&#34;&gt;Dianne Neumark-Sztainer&lt;/a&gt; and &lt;a href=&#34;https://www.med.umn.edu/bio/psychiatry/ann-haynos&#34; target=&#34;_blank&#34;&gt;Ann Haynos&lt;/a&gt;, my work in this area has examined longitudinal trajectories of eating disorder symptoms and body dissatisfaction using data from &lt;a href=&#34;http://www.sphresearch.umn.edu/epi/project-eat/&#34; target=&#34;_blank&#34;&gt;Project EAT&lt;/a&gt; across 15 years from adolescence to adulthood.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/project/machine-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/machine-learning/</guid>
+      <description>&lt;p&gt;Meta-analyses indicate that efforts to predict self-harming behaviors have resulted in near-chance accuracy. Prediction of these behaviors may benefit from machine learning methods, which can better account for the complexity of self-harming behaviors. My work in this area uses machine learning to improve the longitudinal prediction of nonsuicidal self-injury (NSSI), suicide, and eating disorders across both short-term periods of high risk and long-term studies of illness course and outcome.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Networks &amp; Nosology</title>
+      <link>/project/networks-nosology/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/networks-nosology/</guid>
+      <description>&lt;p&gt;How are mental disorders and self-harming behaviors optimally classified and conceptualized? My interest in classification stems from my research with &lt;a href=&#34;https://ruscio.pages.tcnj.edu/&#34; target=&#34;_blank&#34;&gt;John Ruscio&lt;/a&gt; in taxometric analysis. To faciliate statistical tests of whether disorders are categorical or dimensional in nature, we wrote an R package for taxometric analysis, &lt;a href=&#34;https://cran.r-project.org/web/packages/RTaxometrics/index.html&#34; target=&#34;_blank&#34;&gt;RTaxometrics&lt;/a&gt; (available on CRAN).&lt;/p&gt;
+
+&lt;p&gt;However, rather than viewing mental disorders as emerging from a latent cause, recent models have also described disorders as complex interactions between symptoms. My work in this area has used network models to examine how symptoms can influence, maintain, and interact with each other, as well as to identify the symptoms that are most central to a disorder.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Real-time monitoring</title>
+      <link>/project/real-time-monitoring/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/real-time-monitoring/</guid>
+      <description>&lt;p&gt;Self-harming behaviors, such as eating disorder behaviors, self-injury, and suicide, rarely occur in the research lab and researchers cannot ethically induce these behaviors in traditional research settings to study them. Therefore, we lack a clear understanding of many fundamental properties of these behaviors and how the occur in the real world, in real time. To address this gap, my research in this area aims to leverage advances in smartphone technology and wearable biosensors to improve the understanding and prediction of eating disorder behaviors, nonsuicidal self-injury, and suicidal thoughts and behaviors.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -9,7 +9,8 @@ authors:
 date: "2018-10-01T00:00:00Z"
 doi: "10.1017/S0033291718002702"
 featured: false
-projects: []
+projects:
+- Longitudinal Trajectories
 publication: '*International Journal of Eating Disorders, 51* (9), 1090-1097'
 publication_short: ""
 publication_types:

@@ -13,7 +13,7 @@ slides:
 summary: 
 tags:
 - Projects
-title: Eating Disorders
+title: Longitudinal Trajectories
 url_code: ""
 url_pdf: ""
 url_slides: ""
