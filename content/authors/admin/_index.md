@@ -23,7 +23,7 @@ name: Shirley Wang
 organizations:
 - name: Harvard University
   url: ""
-role: Ph.D. student
+role: Ph.D. candidate
 social:
 - icon: envelope
   icon_pack: fas

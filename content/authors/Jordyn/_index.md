@@ -3,7 +3,7 @@ authors:
 - Jordyn
 bio: []
 education: []
-email: []
+email: "jordynricard2020@u.northwestern.edu"
 interests:
 name: Jordyn Ricard
 organizations:
