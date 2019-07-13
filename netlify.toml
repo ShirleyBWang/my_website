@@ -9,3 +9,15 @@
   
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.55.6" # if older, use format: 0.53 (no trailing zero)
+  
+# Redirect with a 301
+/home         /              301
+
+# Redirect with a 302
+/my-redirect  /              302
+
+# Rewrite a path
+/pass-through /index.html    200
+
+# Show a custom 404 for this path
+/ecommerce    /store-closed  404
