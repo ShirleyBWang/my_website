@@ -16,6 +16,8 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2018-10-01T00:00:00Z"
+tags:
+- Longitudinal Trajectories
 title: 'Patterns of weight control behavior persisting beyond young adulthood: Results from a fifteen-year longitudinal study'
 url_code: ""
 url_dataset: ""

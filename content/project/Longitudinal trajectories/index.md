@@ -2,7 +2,7 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Wang et al., (2019), Clinical Psychological Science
+  caption: Wang et al. (2019), Clinical Psychological Science
   focal_point: Smart
 links:
 - icon: twitter

@@ -7,7 +7,7 @@ authors:
 - Eisenberg, M.E.
 - Neumark-Sztainer, D
 date: "2019-06-01T00:00:00Z"
-# doi:
+doi: ""
 featured: false
 projects: 
 - Longitudinal Trajectories
@@ -16,6 +16,8 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-06-01T00:00:00Z"
+tags:
+- Longitudinal Trajectories
 title: '15-year prevalence, trajectories, and predictors of body dissatisfaction from adolescence to middle adulthood'
 url_code: ""
 url_dataset: ""
