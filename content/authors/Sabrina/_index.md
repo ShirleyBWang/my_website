@@ -10,7 +10,7 @@ organizations:
 - name: Harvard University
   url: ""
 role: Thesis Student
-superuser: true
+superuser: false
 user_groups:
 - Current
 ---

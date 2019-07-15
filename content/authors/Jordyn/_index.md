@@ -10,7 +10,7 @@ organizations:
 - name: Northwestern University
   url: ""
 role: Research Intern
-superuser: true
+superuser: false
 user_groups:
 - Current
 ---
