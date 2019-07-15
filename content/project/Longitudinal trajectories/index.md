@@ -13,6 +13,7 @@ slides:
 summary: 
 tags:
 - Projects
+- Longitudinal Trajectories
 title: Longitudinal Trajectories
 url_code: ""
 url_pdf: ""

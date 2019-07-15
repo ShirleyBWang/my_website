@@ -670,6 +670,12 @@
   </url>
   
   <url>
+    <loc>/tags/longitudinal-trajectories/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/project/longitudinal-trajectories/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -769,6 +775,10 @@
   
   <url>
     <loc>/authors/jordyn/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/missy/</loc>
   </url>
   
   <url>
