@@ -738,12 +738,31 @@
     
     <item>
       <title></title>
+      <link>/authors/yuri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/yuri/</guid>
+      <description>&lt;p&gt;Yuri-Grace is a rising junior at Harvard College concentrating in Psychology with a secondary in Classical Civilizations. Her primary research interests encompass eating disorders, non-suicidal self-injury, and mood disorders with a particular focus on identifying high-risk groups such as adolescents, athletes, and veterans.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/zelal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/authors/zelal/</guid>
       <description>&lt;p&gt;Zelal Kilic is a rising senior concentrating in Psychology and Computer Science. Her research interests broadly include mood disorders, non-suicidal self injuries, addiction, and the interplay between addictive qualities of technology and their impacts on psychopathology. Zelal eventually plans to pursue a Ph.D. in clinical psychology.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Yuri-Grace</title>
+      <link>/authors/yuri-grace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/yuri-grace/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -786,11 +786,20 @@
   </url>
   
   <url>
+    <loc>/authors/yuri/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/zelal/</loc>
   </url>
   
   <url>
     <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/yuri-grace/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
