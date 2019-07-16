@@ -11,7 +11,7 @@ doi: "10.1007/s10862-019-09736-z"
 featured: false
 projects: 
 - Machine learning
-publication: '*Journal of Clinical and Consulting Psychology*'
+publication: '*Journal of Consulting and Clinical Psychology*'
 publication_short: ""
 publication_types:
 - "2"
