@@ -30,7 +30,7 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ShirleyWangB
+  link: https://twitter.com/ShirleyBWang
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=CGXlWWAAAAAJ&hl=en
