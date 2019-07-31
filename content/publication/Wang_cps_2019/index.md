@@ -7,7 +7,7 @@ authors:
 - Eisenberg, M.E.
 - Neumark-Sztainer, D
 date: "2019-06-01T00:00:00Z"
-doi: ""
+doi: "10.1177/2167702619859331"
 featured: false
 projects: 
 - Longitudinal Trajectories
@@ -28,7 +28,6 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
 
 {{% alert note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
