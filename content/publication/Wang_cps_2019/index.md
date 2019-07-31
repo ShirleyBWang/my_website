@@ -21,7 +21,7 @@ tags:
 title: '15-year prevalence, trajectories, and predictors of body dissatisfaction from adolescence to middle adulthood'
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: papers/Wang_cps_2019.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
