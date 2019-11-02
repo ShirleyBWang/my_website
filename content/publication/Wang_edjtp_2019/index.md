@@ -9,7 +9,7 @@ authors:
 - Thomas, J.J.
 - Eddy, K.T.
 date: "2019-05-01T00:00:00Z"
-doi: ""
+doi: "10.1080/10640266.2019.1656470"
 featured: false
 projects: []
 publication: '*Eating Disorders: The Journal of Treatment & Prevention*'
@@ -22,7 +22,7 @@ tags:
 title: 'Cognitive rigidity and heightened attention to detail occur transdiagnostically in adolescents with eating disorders'
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: papers/Wang_edjtp_2019
 url_poster: ""
 url_project: ""
 url_slides: ""
