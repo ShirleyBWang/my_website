@@ -22,7 +22,7 @@ tags:
 title: 'Cognitive rigidity and heightened attention to detail occur transdiagnostically in adolescents with eating disorders'
 url_code: ""
 url_dataset: ""
-url_pdf: papers/Wang_edjtp_2019
+url_pdf: papers/Wang_edjtp_2019.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
