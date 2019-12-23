@@ -16,7 +16,8 @@ authors:
 date: "2019-11-01T00:00:00Z"
 doi: ""
 featured: false
-projects: []
+projects: 
+- Comorbidity
 publication: '*International Journal of Eating Disorders*'
 publication_short: ""
 publication_types:
@@ -35,14 +36,4 @@ url_source: ""
 url_video: ""
 ---
 
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
