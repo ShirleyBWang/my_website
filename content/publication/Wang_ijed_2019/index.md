@@ -28,7 +28,7 @@ tags:
 title: 'Restrictive eating, but not binge eating or purging, predicts suicidal ideation in adolescents and young adults with low-weight eating disorders'
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: papers/Wang_ijed_2019.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
