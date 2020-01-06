@@ -20,7 +20,7 @@ tags:
 title: 'Longitudinal predictors of self-injurious thoughts and behaviors in sexual and gender minority adolescents'
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: papers/Smith_abnormal_2019.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
