@@ -13,7 +13,7 @@ date: "2020-02-10T00:00:00Z"
 doi: ""
 featured: false
 projects:
-- Machine Learning
+- Machine learning
 - Real-Time Monitoring
 publication: '*Bulletin of the World Health Organization*'
 publication_short: ""
