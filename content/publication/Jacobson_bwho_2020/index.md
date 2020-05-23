@@ -10,7 +10,7 @@ authors:
 - Rodman, A.M.
 - Coppersmith, D.D.L
 date: "2020-02-10T00:00:00Z"
-doi: ""
+doi: "10.2471/BLT.19.237107"
 featured: false
 projects:
 - Machine learning
@@ -26,7 +26,7 @@ tags:
 title: 'Ethical dilemmas created by mobile health and machine learning within research in psychiatry'
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: papers/Jacobson_bwho_2020.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""

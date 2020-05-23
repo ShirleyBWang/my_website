@@ -17,7 +17,7 @@ email: "shirleywang@g.harvard.edu"
 interests:
 - eating disorders
 - suicide
-- machine learning
+- computational modeling
 - real-time monitoring
 name: Shirley Wang
 organizations:
@@ -27,13 +27,19 @@ role: Ph.D. candidate
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'
+  link: mailto:shirleywang@g.harvard.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ShirleyBWang
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=CGXlWWAAAAAJ&hl=en
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/3592829/shirley-wang/
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/file/d/1yP8aPM-6w6LpOo7dQxwcbQ2ud5vBrYB0/view?usp=sharing
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
