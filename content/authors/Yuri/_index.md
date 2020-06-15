@@ -9,7 +9,7 @@ name: Yuri-Grace Ohashi
 organizations:
 - name: Harvard University
   url: ""
-role: Research Assistant
+role: Thesis Student
 superuser: false
 user_groups:
 - Current
