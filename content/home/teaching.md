@@ -43,7 +43,7 @@ subtitle = ""
 +++
 
 ## **PSY 1900: Introduction to Statistics for the Behavioral Sciences**  
-I am currently a teaching fellow for PSY 1900 with [Patrick Mair](https://psychology.fas.harvard.edu/people/patrick-mair). I lead two lab sections per week and cover the following topics in R:  
+I have previously served as a teaching fellow for PSY 1900 with [Patrick Mair](https://psychology.fas.harvard.edu/people/patrick-mair). I taught two lab sections per week and covered the following topics in R:  
 
 * Descriptive Statistics  
 * Data Visualization  
