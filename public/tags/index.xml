@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shirley Wang</title>
+    <title>Tags on Shirley Wang</title>
     <link>/tags/</link>
-    <description>Recent content on Shirley Wang</description>
+    <description>Recent content in Tags on Shirley Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
@@ -12,17 +12,18 @@
     
     
     <item>
-      <title>Online methods in adolescent self-injury research: Challenges and recommendations</title>
-      <link>/publication/smith_jccap_2021/</link>
-      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>/tags/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/publication/smith_jccap_2021/</guid>
+      <guid>/tags/</guid>
       <description></description>
     </item>
     
-  </channel>
-</rss>
-+0000</pubDate>
+    <item>
+      <title>Machine Learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/machine-learning/</guid>
       <description></description>
