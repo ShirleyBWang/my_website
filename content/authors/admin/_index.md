@@ -17,7 +17,8 @@ email: "shirleywang@g.harvard.edu"
 interests:
 - eating disorders
 - suicide
-- computational modeling
+- mathematical modeling
+- computational psychiatry
 - real-time monitoring
 name: Shirley Wang
 organizations:
