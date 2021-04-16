@@ -34,25 +34,237 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/wang_jamano_2021/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/authors/deming-c./</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
+    <loc>/authors/bentley-k.h./</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/coppersmith-d.d.l/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/dempsey-w./</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/fortgang-r.g./</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/huffman-j.c./</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kleiman-e.m./</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/mair-p./</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/millner-a.j./</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/nock-m.k./</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/real-time-monitoring/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/wang-s.b./</loc>
+    <lastmod>2021-03-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/al-suwaidi-m./</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/beukenhorst-a./</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/bird-s./</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/buonopane-r./</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/demarco-d./</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/haim-a./</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/fortgang_cps_2021/</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/joyce-v./</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kastman-e./</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/kilbury-e./</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/lee-h.s./</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/nash-c./</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/onnela-j.p./</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/reid-russell-a./</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/smoller-j./</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/zuromski-k./</loc>
+    <lastmod>2021-03-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/fox-k.r./</loc>
+    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/lipson-s.m./</loc>
+    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/smith_jccap_2021/</loc>
+    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/smith-d.m.y/</loc>
+    <lastmod>2021-03-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/deming-c./</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -64,37 +276,8 @@
   </url>
   
   <url>
-    <loc>/authors/millner-a.j./</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/nock-m.k./</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/fox_psychassessment_2020/</loc>
     <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/wang-s.b./</loc>
-    <lastmod>2020-02-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -128,12 +311,6 @@
   </url>
   
   <url>
-    <loc>/tags/machine-learning/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/haynos_wang_psychmed_2020/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url>
@@ -151,25 +328,7 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/bentley-k.h./</loc>
-    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/coombs-g./</loc>
-    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/coppersmith-d.d.l/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -180,19 +339,7 @@
   </url>
   
   <url>
-    <loc>/authors/fortgang-r.g./</loc>
-    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/jacobson-n.c./</loc>
-    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/real-time-monitoring/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -316,12 +463,6 @@
   </url>
   
   <url>
-    <loc>/authors/smith-d.m.y/</loc>
-    <lastmod>2019-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/publication/wang_cps_2019/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -439,12 +580,6 @@
   
   <url>
     <loc>/authors/hooley-j.m/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/authors/kleiman-e.m./</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -974,6 +1109,10 @@
   
   <url>
     <loc>/authors/cristina/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/imani/</loc>
   </url>
   
   <url>
