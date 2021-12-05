@@ -23,7 +23,7 @@ authors:
 - Smoller, J.
 - Nock, M.K.
 date: "2021-03-08T00:00:00Z"
-doi: ""
+doi: "10.1177/2167702621993857"
 featured: false
 projects: 
 - Real-Time Monitoring
@@ -37,7 +37,7 @@ tags:
 title: 'Increase in suicidal thinking during COVID-19'
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: papers/Fortgang_cps_2021.pdf
 url_poster: ""
 url_project: ""
 url_slides: ""
