@@ -46,7 +46,7 @@ subtitle = ""
 ### **Applied Machine Learning in R** 
 **Pittsburgh Summer Methodology Series | July 19 - July 23, 2021**
 
-This summer, [Jeffrey Girard](https://jmgirard.com/) and I will teach an online workshop to provide a hands-on introduction to machine learning methods for social and behavioral scientists. Opportunities for methodological consulting will also be provided. For more information and to register, please visit the Pitt Summer Methods [website](https://www.pittmethods.com/applied-ml).
+Through the [Pittsburgh Summer Methodology Series](https://www.pittmethods.com/), [Jeffrey Girard](https://jmgirard.com/) and I teach a course that provides a hands-on introduction to machine learning methods for social and behavioral scientists. Opportunities for methodological consulting are also provided. For more information, please visit the Pitt Summer Methods [website](https://www.pittmethods.com/applied-ml).
 
 ### **Introduction to R**
 **Massachusetts General Hospital | Spring 2021**
