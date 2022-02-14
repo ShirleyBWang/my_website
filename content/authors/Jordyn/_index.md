@@ -3,7 +3,7 @@ authors:
 - Jordyn
 bio: []
 education: []
-email: "jordynricard2020@u.northwestern.edu"
+email: "jricard@fas.harvard.edu"
 interests:
 name: Jordyn Ricard
 organizations:
@@ -15,4 +15,4 @@ user_groups:
 - Past
 ---
 
-Jordyn Ricard is a rising senior at Northwestern University studying Human Development and Psychological Services. She is interested in better understanding the negative effects of early life stress and promoting adaptive development, and she plans to pursue a graduate degree in clinical psychology following her undergraduate studies.
+Jordyn Ricard is is a Research Assistant in the Nock Lab. She graduated from Northwestern University in 2020 with a B.S. in Human Development and Psychological Services. She is interested in the development of externalizing behaviors in minoritized youth with a focus on violence exposure, maltreatment, and other forms of trauma. Jordyn plans to apply to clinical psychology PhD programs during the 2021 - 2022 application cycle.
