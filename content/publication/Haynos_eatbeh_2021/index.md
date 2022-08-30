@@ -17,7 +17,6 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2021-08-20T00:00:00Z"
-tags:[]
 title: 'An empirical taxonomy of reward response patterns in a transdiagnostic eating disorder sample'
 url_code: ""
 url_dataset: ""
