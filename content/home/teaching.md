@@ -43,6 +43,11 @@ subtitle = ""
 +++
 
 
+### **AC 297r: Computational Science and Engineering Capstone**
+**Harvard University | Fall 2022**
+
+I am currently serving as a teaching fellow/project mentor [AC 297r](https://www.capstone.iacs.seas.harvard.edu/) with [Weiwei Pan](https://onefishy.github.io/). I am mentoring teams of 4 - 5 Master's students in data science or computational science applying machine learning, computational, and engineering methods to solve a complex real-world problem. 
+
 ### **Applied Machine Learning in R** 
 **Pittsburgh Summer Methodology Series | August 8 - 11, 2022**
 
