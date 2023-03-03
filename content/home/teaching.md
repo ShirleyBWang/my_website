@@ -43,20 +43,20 @@ subtitle = ""
 +++
 
 
+### **Applied Machine Learning in R** 
+**Pittsburgh Summer Methodology Series | June 26 - 29, 2023**
+
+Through the [Pittsburgh Summer Methodology Series](https://www.pittmethods.com/), [Jeffrey Girard](https://jmgirard.com/) and I teach a course that provides a hands-on introduction to machine learning methods for social and behavioral scientists. Opportunities for methodological consulting are also provided. For more information and to register, please visit the Pitt Summer Methods [website](https://www.pittmethods.com/applied-ml).
+
+### **Assessing Suicidal and Nonsuicidal Self-Injury** 
+**Pittsburgh Summer Methodology Series | June 22 - 23, 2023**
+
+Through the [Pittsburgh Summer Methodology Series](https://www.pittmethods.com/), [Kathryn Fox](https://operations.du.edu/about/faculty-directory/kathryn-r-fox) and I teach a foundational course providing for researchers interested in studying suicidal and nonsuicidal thoughts and behaviors in youth and adults. Opportunities for consulting are also provided. For more information and to register, please visit the Pitt Summer Methods [website](https://www.pittmethods.com/suicide).
+
 ### **AC 297r: Computational Science and Engineering Capstone**
 **Harvard University | Fall 2022**
 
-I am currently serving as a teaching fellow/project mentor for [AC 297r](https://www.capstone.iacs.seas.harvard.edu/) with [Weiwei Pan](https://onefishy.github.io/). I am mentoring teams of 4 - 5 Master's students in data science or computational science applying machine learning, computational, and engineering methods to solve a complex real-world problem. 
-
-### **Applied Machine Learning in R** 
-**Pittsburgh Summer Methodology Series | August 8 - 11, 2022**
-
-Through the [Pittsburgh Summer Methodology Series](https://www.pittmethods.com/), [Jeffrey Girard](https://jmgirard.com/) and I teach a course that provides a hands-on introduction to machine learning methods for social and behavioral scientists. Opportunities for methodological consulting are also provided. For more information, please visit the Pitt Summer Methods [website](https://www.pittmethods.com/applied-ml).
-
-### **Assessing Suicidal and Nonsuicidal Self-Injury** 
-**Pittsburgh Summer Methodology Series | August 1 - 2, 2022**
-
-Through the [Pittsburgh Summer Methodology Series](https://www.pittmethods.com/), [Kathryn Fox](https://operations.du.edu/about/faculty-directory/kathryn-r-fox) and I teach a foundational course providing for researchers interested in studying suicidal and nonsuicidal thoughts and behaviors in youth and adults. Opportunities for consulting are also provided. For more information, please visit the Pitt Summer Methods [website](https://www.pittmethods.com/suicide).
+I have previously served as a teaching fellow/project mentor for [AC 297r](https://www.capstone.iacs.seas.harvard.edu/) with [Weiwei Pan](https://onefishy.github.io/). I mentored teams of 4 - 5 Master's students in data science or computational science applying machine learning, computational, and engineering methods to solve a complex real-world problem. 
 
 ### **Introduction to R**
 **Massachusetts General Hospital | Spring 2021; Summer 2021**
