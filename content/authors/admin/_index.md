@@ -54,4 +54,4 @@ I am a PhD candidate in clinical psychology with a secondary in computational sc
 
 I value diversity, inclusion, and belonging, and am committed to promoting these values in research, academia, clinical practice, and beyond. I believe that increasing representation of people from marginalized and historically disadvantaged backgrounds is critical for conducting ethical, comprehensive, and innovative clinical science research.
 
-Starting Fall 2024, I am thrilled to be joining the [Psychology Department](https://psychology.yale.edu/) at Yale University. My lab will integrate methods from across the clinical & computational sciences to advance the understanding, prediction, and prevention of suicide, nonsuicidal self-injury, and eating disorders. 
+Starting Fall 2024, I am thrilled to be joining the [Psychology Department](https://psychology.yale.edu/) at Yale University as an Assistant Professor. My lab will integrate methods from across the clinical & computational sciences to advance the understanding, prediction, and prevention of suicide, nonsuicidal self-injury, and eating disorders. 
