@@ -50,12 +50,13 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in clinical psychology, with a secondary in computational science and engineering, at Harvard University. I work with [Matt Nock](https://nocklab.fas.harvard.edu/people/matthew-k-nock-phd) and have been funded by the NIMH F31/NRSA Predoctoral Fellowship and the NSF Graduate Research Fellowship Program. I conduct computational clinical science research to advance our understanding, prediction, and prevention of suicide, nonsuicidal self-injury, and eating disorders. I am particularly interested in formal mathematical modeling of these phenomena as complex dynamical systems, and developing machine learning models for risk prediction using data from smartphones and wearables.
+I am a PhD candidate in clinical psychology, with a secondary in computational science and engineering, at Harvard University. I work with [Matt Nock](https://nocklab.fas.harvard.edu/people/matthew-k-nock-phd) and have been funded by the NIMH F31/NRSA Predoctoral Fellowship and the NSF Graduate Research Fellowship Program. I am currently completing my clinical internship at Massachusetts General Hospital, with the [Center for Precision Psychiatry](https://www.massgeneral.org/psychiatry/research/precision-psychiatry/about) and the [Center for Digital Mental Health](https://centerfordigitalmentalhealth.org/). 
 
 I value diversity, inclusion, and belonging, and am committed to promoting these values in research, academia, clinical practice, and beyond. I believe that increasing representation of people from marginalized and historically disadvantaged backgrounds is critical for conducting ethical, comprehensive, and innovative clinical science research.
 
-I am currently completing my predoctoral clinical internship with the [Center for Precision Psychiatry](https://www.massgeneral.org/psychiatry/research/precision-psychiatry/about) and the [Center for Digital Mental Health](https://centerfordigitalmentalhealth.org/) at Massachusetts General Hospital, on the CBT track. 
+Starting in July 2024, I am thrilled to be joining the [Department of Psychology](https://psychology.yale.edu/) at Yale University as an Assistant Professor. My lab will integrate methods from across the clinical & computational sciences to advance the understanding, prediction, and prevention of suicide, nonsuicidal self-injury, and eating disorders. A central focus of this work will include formalizing theories of psychopathology as mathematical models, and modeling the real-time dynamics of symptoms (and their contexts) as they unfold in people’s daily lives. 
 
-Starting in July 2024, I am thrilled to be joining the [Psychology Department](https://psychology.yale.edu/) at Yale University as an Assistant Professor. My lab will integrate methods from across the clinical & computational sciences to advance the understanding, prediction, and prevention of suicide, nonsuicidal self-injury, and eating disorders. I will be considering graduate applications in Fall 2023 and will also be hiring a full-time lab manager in the next year - please stay tuned for more information to come!
+**I will be considering graduate applications in Fall 2023 (for the Ph.D. program beginning in Fall 2024). I will also be hiring a full-time lab manager to begin in July 2024 - please stay tuned for more information to come!** 
+
 
 
