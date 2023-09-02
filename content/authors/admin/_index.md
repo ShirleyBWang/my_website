@@ -56,7 +56,7 @@ I value diversity, inclusion, and belonging, and am committed to promoting these
 
 Starting in July 2024, I am thrilled to be joining the [Department of Psychology](https://psychology.yale.edu/) at Yale University as an Assistant Professor. My lab will integrate methods from across the clinical & computational sciences to advance the understanding, prediction, and prevention of suicide, nonsuicidal self-injury, and eating disorders. A central focus of this work will include formalizing theories of psychopathology as mathematical models, and modeling the real-time dynamics of symptoms (and their contexts) as they unfold in people’s daily lives. 
 
-**I will be considering graduate applications in Fall 2023 (for the Ph.D. program beginning in Fall 2024). I will also be hiring a full-time lab manager to begin in July 2024 - please stay tuned for more information to come!** 
+**I will be considering graduate applications in Fall 2023 (for the Ph.D. program beginning in Fall 2024). [Please click here for FAQs for prospective PhD students](https://docs.google.com/document/d/1DqbUZxf5aPN_v707Sk6FEuXVV0N32TZrffF5hVvEBO0/edit?usp=sharing). I will also be hiring a full-time lab manager to begin in July 2024 - please stay tuned for more information to come!** 
 
 
 
