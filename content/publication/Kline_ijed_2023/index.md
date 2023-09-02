@@ -7,7 +7,7 @@ authors:
 - Wang, S.B.
 - Fox. K.R.
 
-date: "2013-08-31T00:00:00Z"
+date: "2023-08-31T00:00:00Z"
 doi: "10.1002/eat.24043"
 featured: false
 projects:
@@ -16,7 +16,7 @@ publication: '*International Journal of Eating Disorders*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2013-08-31T00:00:00Z"
+publishDate: "2023-08-31T00:00:00Z"
 title: 'Comparing self‐harming intentions underlying eating disordered behaviors and NSSI: Replication and extension in adolescents
 '
 url_code: ""
