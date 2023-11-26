@@ -50,13 +50,12 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in clinical psychology, with a secondary in computational science and engineering, at Harvard University. I work with [Matt Nock](https://nocklab.fas.harvard.edu/people/matthew-k-nock-phd) and have been funded by the NIMH F31/NRSA Predoctoral Fellowship and the NSF Graduate Research Fellowship Program. I am currently completing my clinical internship at Massachusetts General Hospital, with the [Center for Precision Psychiatry](https://www.massgeneral.org/psychiatry/research/precision-psychiatry/about) and the [Center for Digital Mental Health](https://centerfordigitalmentalhealth.org/). 
-
-I value diversity, inclusion, and belonging, and am committed to promoting these values in research, academia, clinical practice, and beyond. I believe that increasing representation of people from marginalized and historically disadvantaged backgrounds is critical for conducting ethical, comprehensive, and innovative clinical science research.
-
-Starting in July 2024, I am thrilled to be joining the [Department of Psychology](https://psychology.yale.edu/) at Yale University as an Assistant Professor. My lab will integrate methods from across the clinical & computational sciences to advance the understanding, prediction, and prevention of suicide, nonsuicidal self-injury, and eating disorders. A central focus of this work will include formalizing theories of psychopathology as mathematical models, and modeling the real-time dynamics of symptoms (and their contexts) as they unfold in people’s daily lives. 
+I am an incoming Assistant Professor in the [Department of Psychology](https://psychology.yale.edu/) at Yale University (starting July 2024). My lab will integrate methods from across the clinical & computational sciences to advance the understanding, prediction, and prevention of suicide, nonsuicidal self-injury, and eating disorders. A central focus of this work will include formalizing theories of psychopathology as mathematical models, and modeling the real-time dynamics of symptoms (and their contexts) as they unfold in people’s daily lives. 
 
 **I will be considering graduate applications in Fall 2023 (for the Ph.D. program beginning in Fall 2024). [Please click here for FAQs for prospective PhD students](https://docs.google.com/document/d/1DqbUZxf5aPN_v707Sk6FEuXVV0N32TZrffF5hVvEBO0/edit?usp=sharing). I will also be hiring a full-time lab manager to begin in July 2024 - please stay tuned for more information to come!** 
 
+I received my B.A. from The College of New Jersey (2017), my Ph.D. from Harvard University (2024), and am currently completing my predoctoral internship at Massachusetts General Hospital with the [Center for Precision Psychiatry](https://www.massgeneral.org/psychiatry/research/precision-psychiatry/about) and the [Center for Digital Mental Health](https://centerfordigitalmentalhealth.org/). During graduate school, I worked with [Matt Nock](https://nocklab.fas.harvard.edu/people/matthew-k-nock-phd) and was funded by the NIMH F31/NRSA Predoctoral Fellowship and the NSF Graduate Research Fellowship Program. 
+
+I value diversity, inclusion, and belonging, and am committed to promoting these values in research, academia, clinical practice, and beyond. I believe that increasing representation of people from marginalized and historically disadvantaged backgrounds is critical for conducting ethical, comprehensive, and innovative clinical science research.
 
 
