@@ -52,7 +52,7 @@ user_groups:
 
 I am an incoming Assistant Professor in the [Department of Psychology](https://psychology.yale.edu/) at Yale University (starting July 2024). My research integrates methods from across the clinical & computational sciences to advance the understanding, prediction, and prevention of suicide, nonsuicidal self-injury, and eating disorders. A central focus of this work includes formalizing theories of psychopathology as mathematical models, and modeling the real-time dynamics of symptoms (and their contexts) as they unfold in people’s daily lives. 
 
-My research has been published in over 50 scientific papers and book chapters, and funded by the National Institutes of Health, the National Science Foundation, and several private foundations. This work has been recognized by several awards, and I was recently listed as one of [Forbes' 30 Under 30](https://www.forbes.com/profile/shirley-wang/?list=30under30-healthcare/&sh=7e7f3b965c85) in Healthcare.
+My research has been published in over 50 scientific papers and book chapters, and funded by the National Institutes of Health, the National Science Foundation, and several private foundations. This work has also been recognized by several awards, and I was recently listed as one of [Forbes' 30 Under 30](https://www.forbes.com/profile/shirley-wang/?list=30under30-healthcare/&sh=7e7f3b965c85) in Healthcare.
 
 **I will be considering graduate applications in Fall 2023 (for the Ph.D. program beginning in Fall 2024). [Please click here for FAQs for prospective PhD students](https://docs.google.com/document/d/1DqbUZxf5aPN_v707Sk6FEuXVV0N32TZrffF5hVvEBO0/edit?usp=sharing). I will also be hiring a full-time lab manager to begin in July 2024 - please stay tuned for more information to come!** 
 
