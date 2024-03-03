@@ -50,7 +50,7 @@ user_groups:
 - Visitors
 ---
 
-**NOTE: I am no longer regularly updating this website (as of February 2024). For updated information, please visit my [lab website](https://ccslab.yale.edu/).**
+***NOTE: I am no longer regularly updating this website (as of February 2024). For updated information, please visit my [lab website](https://ccslab.yale.edu/).***
 
 I am an incoming Assistant Professor in the [Department of Psychology](https://psychology.yale.edu/) at Yale University (starting July 2024). My research integrates methods from across the clinical & computational sciences to advance the understanding, prediction, and prevention of suicide, nonsuicidal self-injury, and eating disorders. A central focus of this work includes formalizing theories of psychopathology as mathematical models, and modeling the real-time dynamics of symptoms (and their contexts) as they unfold in people’s daily lives. 
 
